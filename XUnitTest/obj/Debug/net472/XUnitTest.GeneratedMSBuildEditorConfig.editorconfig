@@ -1,0 +1,10 @@
+is_global = true
+build_property.MSBuildProjectFullPath = D:\Self_Project\XUnitTest\XUnitTest.csproj
+build_property.XunitTestProjectAOT = false
+build_property.RootNamespace = XUnitTest
+build_property.ProjectDir = D:\Self_Project\XUnitTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

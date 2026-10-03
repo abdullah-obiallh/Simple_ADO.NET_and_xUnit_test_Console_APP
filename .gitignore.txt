@@ -1,0 +1,20 @@
+# Visual Studio / .NET bin and obj folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# NuGet Packages
+*.nupkg
+packages/

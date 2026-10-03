@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Self_Project\\XUnitTest\\XUnitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj",
+        "projectName": "ContactsBusinessLayer",
+        "projectPath": "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {
+              "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj": {
+                "projectPath": "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "D:\\Self_Project\\ContactsConsoleApp\\ContactsConsoleApp-PresentationLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Self_Project\\ContactsConsoleApp\\ContactsConsoleApp-PresentationLayer.csproj",
+        "projectName": "ContactsConsoleApp-PresentationLayer",
+        "projectPath": "D:\\Self_Project\\ContactsConsoleApp\\ContactsConsoleApp-PresentationLayer.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {
+              "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj": {
+                "projectPath": "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj",
+        "projectName": "ContactsDataAccessLayer",
+        "projectPath": "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "D:\\Self_Project\\XUnitTest\\XUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Self_Project\\XUnitTest\\XUnitTest.csproj",
+        "projectName": "XUnitTest",
+        "projectPath": "D:\\Self_Project\\XUnitTest\\XUnitTest.csproj",
+        "packagesPath": "C:\\Users\\obida\\.nuget\\packages\\",
+        "outputPath": "D:\\Self_Project\\XUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\obida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj": {
+                "projectPath": "D:\\Self_Project\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj"
+              },
+              "D:\\Self_Project\\ContactsConsoleApp\\ContactsConsoleApp-PresentationLayer.csproj": {
+                "projectPath": "D:\\Self_Project\\ContactsConsoleApp\\ContactsConsoleApp-PresentationLayer.csproj"
+              },
+              "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj": {
+                "projectPath": "D:\\Self_Project\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "xunit.v3.mtp-v2": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

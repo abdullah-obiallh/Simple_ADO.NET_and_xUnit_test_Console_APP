@@ -1,0 +1,12 @@
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.exe.config
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.exe
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.pdb
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsBusinessLayer.dll
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsDataAccessLayer.dll
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsBusinessLayer.pdb
+D:\Self_Project\ContactsConsoleApp\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Self_Project\ContactsConsoleApp\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.AssemblyReference.cache
+D:\Self_Project\ContactsConsoleApp\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Self_Project\ContactsConsoleApp\obj\Debug\Contacts.BFD23B43.Up2Date
+D:\Self_Project\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.exe
+D:\Self_Project\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.pdb

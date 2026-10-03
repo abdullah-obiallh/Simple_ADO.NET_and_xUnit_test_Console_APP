@@ -1,0 +1,25 @@
+2026-10-01T10:40:04.9739185+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 2.4.0+a2a92fdb11ad38cd55b31223c4cfbb070fa01c05
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 10:40:04.948
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 19376
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: X64 - .NET Framework 4.8.9345.0
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: False
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: D:\Self_Project\XUnitTest\bin\Debug\net472\XUnitTest.exe
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory D:\Self_Project\XUnitTest\bin\Debug\net472\Log --results-directory D:\Self_Project\ContactsConsoleApp\TestResults --client-port 53873'
+2026-10-01T10:40:04.9749194+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-10-01T10:40:05.0199190+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-10-01T10:40:05.0359185+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-10-01T10:40:05.4299188+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '4.0.1' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-10-01T10:40:05.4459185+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v4.0.1+8ed8aa354c (64-bit .NET Framework 4.8.9345.0)
+2026-10-01T10:40:05.5069185+00:00 xUnit.net INFORMATION   Discovering: XUnitTest
+2026-10-01T10:40:05.5569196+00:00 xUnit.net INFORMATION   Discovered:  XUnitTest
+2026-10-01T10:40:05.5909185+00:00 xUnit.net INFORMATION   Starting:    XUnitTest
+2026-10-01T10:40:05.8985264+00:00 xUnit.net ERROR     XUnitTest.DataLayerTest.TryRetriveDataByID_ShouldReturnFullObject [FAIL]
+2026-10-01T10:40:05.8995239+00:00 xUnit.net INFORMATION       System.IO.FileLoadException : تعذر تحميل الملف أو التجميع 'ContactsBusinessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' أو أحد التبعيات الخاصة به. An Application Control policy has blocked this file. (استثناء من HRESULT: 0x800711C7)
+2026-10-01T10:40:05.8995239+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-10-01T10:40:05.9005235+00:00 xUnit.net INFORMATION            at XUnitTest.DataLayerTest.TryRetriveDataByID_ShouldReturnFullObject()
+2026-10-01T10:40:05.9285235+00:00 xUnit.net INFORMATION   Finished:    XUnitTest (ID = 'ef2e21208ccb8b1d4d04fc3ef1ecdc1f9b1bec3d401a2a87712681da5baa06db')
+2026-10-01T10:40:05.9385245+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-10-01T10:40:05.9485235+00:00 xUnit.net INFORMATION    XUnitTest  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 0.344s

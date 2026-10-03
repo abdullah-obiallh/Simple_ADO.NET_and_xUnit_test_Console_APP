@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Self_Project\\ContactsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC7B16-9D68-4542-89C7-B46B203148EB}|..\\XUnitTest\\XUnitTest.csproj|d:\\self_project\\xunittest\\datalayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653BE9FC-6F2A-4537-82AD-40DC4D9E21C8}|..\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj|d:\\self_project\\contactsbusinesslayer\\clscontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653BE9FC-6F2A-4537-82AD-40DC4D9E21C8}|..\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj|d:\\self_project\\contactsbusinesslayer\\clscountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724B745-94C1-4821-80D2-1EA4B64651A2}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|d:\\self_project\\contactsdataaccesslayer\\retrivefromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC6F542-2A37-43AD-A8EE-FF698F4F2D59}|ContactsConsoleApp-PresentationLayer.csproj|D:\\Self_Project\\ContactsConsoleApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC6F542-2A37-43AD-A8EE-FF698F4F2D59}|ContactsConsoleApp-PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724B745-94C1-4821-80D2-1EA4B64651A2}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|d:\\self_project\\contactsdataaccesslayer\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Self_Project\\ContactsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Self_Project\\ContactsConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:15:27.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsContact.cs",
+              "DocumentMoniker": "D:\\Self_Project\\ContactsBusinessLayer\\clsContact.cs",
+              "RelativeDocumentMoniker": "..\\ContactsBusinessLayer\\clsContact.cs",
+              "ToolTip": "D:\\Self_Project\\ContactsBusinessLayer\\clsContact.cs",
+              "RelativeToolTip": "..\\ContactsBusinessLayer\\clsContact.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:42:56.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCountries.cs",
+              "DocumentMoniker": "D:\\Self_Project\\ContactsBusinessLayer\\clsCountries.cs",
+              "RelativeDocumentMoniker": "..\\ContactsBusinessLayer\\clsCountries.cs",
+              "ToolTip": "D:\\Self_Project\\ContactsBusinessLayer\\clsCountries.cs",
+              "RelativeToolTip": "..\\ContactsBusinessLayer\\clsCountries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T22:06:17.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetriveFromDatabase.cs",
+              "DocumentMoniker": "D:\\Self_Project\\ContactsDataAccessLayer\\RetriveFromDatabase.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\RetriveFromDatabase.cs",
+              "ToolTip": "D:\\Self_Project\\ContactsDataAccessLayer\\RetriveFromDatabase.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\RetriveFromDatabase.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAADwv/0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:03:13.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataLayerTest.cs",
+              "DocumentMoniker": "D:\\Self_Project\\XUnitTest\\DataLayerTest.cs",
+              "RelativeDocumentMoniker": "..\\XUnitTest\\DataLayerTest.cs",
+              "ToolTip": "D:\\Self_Project\\XUnitTest\\DataLayerTest.cs",
+              "RelativeToolTip": "..\\XUnitTest\\DataLayerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:02:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbConnection.cs",
+              "DocumentMoniker": "D:\\Self_Project\\ContactsDataAccessLayer\\dbConnection.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\dbConnection.cs",
+              "ToolTip": "D:\\Self_Project\\ContactsDataAccessLayer\\dbConnection.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\dbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:25:10.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../XUnitTest/XUnitTest.csproj" Id="02ac7b16-9d68-4542-89c7-b46b203148eb" />
+  <Project Path="D:/Self_Project/ContactsBusinessLayer/ContactsBusinessLayer.csproj" Id="653be9fc-6f2a-4537-82ad-40dc4d9e21c8" />
+  <Project Path="D:/Self_Project/ContactsConsoleApp/ContactsConsoleApp-PresentationLayer.csproj" Id="0ac6f542-2a37-43ad-a8ee-ff698f4f2d59" />
+  <Project Path="D:/Self_Project/ContactsDataAccessLayer/ContactsDataAccessLayer.csproj" Id="b724b745-94c1-4821-80d2-1ea4b64651a2" />
+</Solution>
